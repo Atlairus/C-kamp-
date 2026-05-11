@@ -1,0 +1,7 @@
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe.config
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\bin\Debug\07_ForeachLoops.exe
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\bin\Debug\07_ForeachLoops.pdb
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.AssemblyReference.cache
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\obj\Debug\07_ForeachLoops.csproj.CoreCompileInputs.cache
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\obj\Debug\07_ForeachLoops.exe
+C:\Users\busea\source\repos\C# Beginner\07_ForeachLoops\obj\Debug\07_ForeachLoops.pdb

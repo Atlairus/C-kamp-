@@ -1,0 +1,7 @@
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\bin\Debug\06_Arrays.exe.config
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\bin\Debug\06_Arrays.exe
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\bin\Debug\06_Arrays.pdb
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\obj\Debug\06_Arrays.csproj.AssemblyReference.cache
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\obj\Debug\06_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\obj\Debug\06_Arrays.exe
+C:\Users\busea\source\repos\C# Beginner\06_Arrays\obj\Debug\06_Arrays.pdb
