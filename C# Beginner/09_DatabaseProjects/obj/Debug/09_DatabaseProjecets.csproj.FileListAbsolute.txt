@@ -1,0 +1,7 @@
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\bin\Debug\09_DatabaseProjecets.exe.config
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\bin\Debug\09_DatabaseProjecets.exe
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\bin\Debug\09_DatabaseProjecets.pdb
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\obj\Debug\09_DatabaseProjecets.csproj.AssemblyReference.cache
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\obj\Debug\09_DatabaseProjecets.csproj.CoreCompileInputs.cache
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\obj\Debug\09_DatabaseProjecets.exe
+C:\Users\busea\source\repos\C# Beginner\09_DatabaseProjecets\obj\Debug\09_DatabaseProjecets.pdb
