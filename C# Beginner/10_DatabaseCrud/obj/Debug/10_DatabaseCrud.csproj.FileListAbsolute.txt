@@ -1,0 +1,7 @@
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe.config
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.exe
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\bin\Debug\10_DatabaseCrud.pdb
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.AssemblyReference.cache
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.csproj.CoreCompileInputs.cache
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.exe
+C:\Users\busea\source\repos\C# Beginner\10_DatabaseCrud\obj\Debug\10_DatabaseCrud.pdb
