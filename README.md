@@ -18,3 +18,5 @@ Bu projede foreach döngüsü ile dizileri nasıl birlikte kullanabileceğimi ö
 Bu proje ile metotları ve geriye değer döndüren ile geriye değer döndürmeyen, parametreleri farklı olan metotlar ile çalışmayı öğrendim. 💾 ⌨️
 ## 📍Proje 9 - Veri Tabanı
 Bu proje ile veri tabanı konusunda bilgi edindim ve veri tabanlarını nasıl C# koduma bağlayabileceğimi öğrendim. Önceden hazırladığım tablonun bilgilerini, visual studio üzerinden yazdığım C# kodlarımda bağlantı kurarak ekrana verileri getirmeyi başardım. 🔗🌐
+## 📍Proje 10 - Veri Tabanı Düzenlemeleri (Crud)
+Bu projede, C# ile bağlantı kurduğumuz veri tabanındaki verileri, yine C# kullanarak güncelleme, silme, ve yeni veri ekleme gibi işlemleri nasıl yapabileceğimi öğrendim. 🛠️📝
